@@ -132,8 +132,3 @@ For full methodology and mathematical formulation, see:
 - Adding realistic constraints improves outcomes without sacrificing feasibility  
 - Optimization provides a structured way to evaluate trade-offs in large-scale systems  
 
----
-
-## 👤 Author
-Althea He  
-Columbia University
